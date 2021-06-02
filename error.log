@@ -1,0 +1,4 @@
+{"service":"user-service","level":"error","message":"Express Server failure","timestamp":"2021-05-19T07:38:52.108Z"}
+{"level":"error","service":"user-service","timestamp":"2021-05-19T07:38:52.111Z"}
+{"service":"user-service","level":"error","message":"Express Server failure","timestamp":"2021-05-19T07:41:11.259Z"}
+{"level":"error","service":"user-service","timestamp":"2021-05-19T07:41:11.262Z"}
